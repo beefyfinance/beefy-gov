@@ -59,7 +59,7 @@ const Footer = () => {
           <BrandIcon type='telegram' />
           <LinkLabel>telegram</LinkLabel>
         </Link>
-        <Link href="https://discord.gg/9xfMvJY" target="_blank">
+        <Link href="https://discord.gg/beefyfinance" target="_blank">
           <BrandIcon type='discord' />
           <LinkLabel>discord</LinkLabel>
         </Link>
